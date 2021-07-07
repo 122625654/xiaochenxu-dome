@@ -1,0 +1,15 @@
+/* pages/home/home.wxss */
+.frame {
+  width: 100%;
+  height: 1000rpx;
+}
+
+.web {
+  width: 100%;
+  height: 100%;
+}
+
+.img {
+  width: 100%;
+  height: 100vh;
+}

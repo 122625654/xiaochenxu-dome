@@ -1,0 +1,23 @@
+{
+  "name": "wx-dome",
+  "version": "1.0.0",
+  "description": "小程序dome-嵌套第三方",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vant/weapp": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/122625654/xiaochenxu-dome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/122625654/xiaochenxu-dome/issues"
+  },
+  "homepage": "https://github.com/122625654/xiaochenxu-dome#readme",
+  "devDependencies": {}
+}

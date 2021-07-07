@@ -1,0 +1,7 @@
+<!--pages/home/home.wxml-->
+<view class="container">
+   <!-- <iframe class="frame" src='https://hanyu.baidu.com' frameborder="0"></iframe> -->
+   <web-view src="https://hanyu.baidu.com"></web-view>
+</view>
+
+
